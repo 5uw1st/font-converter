@@ -1,0 +1,10 @@
+*.log
+*.pyc
+.idea
+__pycache__/
+
+logs/
+images/
+*.exe
+.idea/workspace.xml
+*.lock

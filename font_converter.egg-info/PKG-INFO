@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: font-converter
+Version: 0.1
+Summary: A font converter script
+Home-page: http://github.com/5uw1st/font-converter
+Author: 5uw1st
+Author-email: j5uw1st@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
