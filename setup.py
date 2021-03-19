@@ -17,6 +17,6 @@ setup(name='font-converter',
           'requests==2.20.1',
           'redis==3.3.8',
           'pytesseract==0.3.0',
-          'Pillow==6.1.0',
+          'Pillow==8.1.1',
       ],
       zip_safe=False)
