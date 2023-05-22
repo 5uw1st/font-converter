@@ -14,7 +14,7 @@ setup(name='font-converter',
       packages=['font_converter'],
       python_requires=">=3.6",
       install_requires=[
-          'requests==2.20.1',
+          'requests==2.31.0',
           'redis==3.3.8',
           'pytesseract==0.3.0',
           'Pillow==6.1.0',
